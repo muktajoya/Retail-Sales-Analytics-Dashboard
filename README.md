@@ -10,6 +10,6 @@ Product/category performance analysis
 Dynamic filters and slicers
 
 Tools Used
-Power BI
-Power Query
+Power BI,
+Power Query,
 DAX
