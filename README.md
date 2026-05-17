@@ -4,7 +4,7 @@ This Power BI dashboard analyzes Apocalypse sales data to identify purchasing tr
 
 Preview
 
-![Most profitable product](Data Visualization Screensort/Most-profitable-product.jpg)
+![Most profitable product](Data-Visualization-Screensort/Most-profitable-product.jpg)
 
 Key Features
 Multi-page interactive dashboard
