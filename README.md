@@ -1,9 +1,7 @@
 Retail Sales Dashboard
-
 This Power BI dashboard analyzes Apocalypse sales data to identify purchasing trends, weekly sales behavior, product performance, and customer behavior.
 
 Preview
-
 ![Most profitable product](Data-Visualization-Screensort/Most-profitable-product.jpg)
 
 Key Features
